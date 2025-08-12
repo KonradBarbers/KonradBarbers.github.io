@@ -88,16 +88,6 @@
   padding: 20px 40px;
 }
 
-.promo-banner {
-  background-color: #193479;
-  color: white;
-  text-align: center;
-}
-
-.promo-banner h2 {
-  color: white;
-}
-
 /* Responsive design */
 @media screen and (max-width: 992px) {
   /* Intro section */
